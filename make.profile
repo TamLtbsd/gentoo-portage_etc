@@ -1,1 +1,1 @@
-../../nr/repos/gentoo/profiles/hardened/linux/musl/amd64
+../gentoo/profiles/hardened/linux/musl/amd64
